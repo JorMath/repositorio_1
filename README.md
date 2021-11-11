@@ -1,2 +1,1 @@
-# repositorio_1
-Este repositorio corresponde al primer trabajo usando GitHub
+# repositorio_1Este repositorio corresponde al primer trabajo usando GitHub10-11-2021
